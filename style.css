@@ -1,0 +1,45 @@
+body{
+
+    height: auto;
+    width: auto;
+    background-color: rgb(55, 56, 56);
+    overflow-y: hidden;
+
+}
+
+.mainContainer{
+
+    margin-top: 5rem;
+    padding: 10%;
+
+}
+
+.calc-Container{
+
+    border-style: solid;
+    border-color: rgb(172, 172, 172);
+    border-radius: 20px;
+    padding: 40px;
+    box-shadow: -8px 8px 5px;
+    background-color: rgb(70, 69, 69);
+
+
+}
+
+
+.displayArea{
+
+    text-align: right;
+    font-size: 3rem;
+    height: 80px;
+    box-shadow: -5px 5px 10px rgb(39, 39, 39);
+
+}
+
+.btn{
+
+    height: 50px;
+    box-shadow: -5px 5px 10px rgb(39, 39, 39);
+
+
+}
